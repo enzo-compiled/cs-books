@@ -1,2 +1,2 @@
 # cs-books
-A lttlerepository of computer science books!
+A little repository of computer science books!
